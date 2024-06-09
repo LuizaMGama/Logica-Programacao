@@ -1,0 +1,14 @@
+C:\Users\Aluno\Desktop\Proa\AnoBissexto\bin\Debug\net8.0\AnoBissexto.exe
+C:\Users\Aluno\Desktop\Proa\AnoBissexto\bin\Debug\net8.0\AnoBissexto.deps.json
+C:\Users\Aluno\Desktop\Proa\AnoBissexto\bin\Debug\net8.0\AnoBissexto.runtimeconfig.json
+C:\Users\Aluno\Desktop\Proa\AnoBissexto\bin\Debug\net8.0\AnoBissexto.dll
+C:\Users\Aluno\Desktop\Proa\AnoBissexto\bin\Debug\net8.0\AnoBissexto.pdb
+C:\Users\Aluno\Desktop\Proa\AnoBissexto\obj\Debug\net8.0\AnoBissexto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Desktop\Proa\AnoBissexto\obj\Debug\net8.0\AnoBissexto.AssemblyInfoInputs.cache
+C:\Users\Aluno\Desktop\Proa\AnoBissexto\obj\Debug\net8.0\AnoBissexto.AssemblyInfo.cs
+C:\Users\Aluno\Desktop\Proa\AnoBissexto\obj\Debug\net8.0\AnoBissexto.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\Proa\AnoBissexto\obj\Debug\net8.0\AnoBissexto.dll
+C:\Users\Aluno\Desktop\Proa\AnoBissexto\obj\Debug\net8.0\refint\AnoBissexto.dll
+C:\Users\Aluno\Desktop\Proa\AnoBissexto\obj\Debug\net8.0\AnoBissexto.pdb
+C:\Users\Aluno\Desktop\Proa\AnoBissexto\obj\Debug\net8.0\AnoBissexto.genruntimeconfig.cache
+C:\Users\Aluno\Desktop\Proa\AnoBissexto\obj\Debug\net8.0\ref\AnoBissexto.dll

@@ -1,0 +1,14 @@
+C:\Users\Aluno\Desktop\Proa\Exemplo01\bin\Debug\net8.0\Exemplo01.exe
+C:\Users\Aluno\Desktop\Proa\Exemplo01\bin\Debug\net8.0\Exemplo01.deps.json
+C:\Users\Aluno\Desktop\Proa\Exemplo01\bin\Debug\net8.0\Exemplo01.runtimeconfig.json
+C:\Users\Aluno\Desktop\Proa\Exemplo01\bin\Debug\net8.0\Exemplo01.dll
+C:\Users\Aluno\Desktop\Proa\Exemplo01\bin\Debug\net8.0\Exemplo01.pdb
+C:\Users\Aluno\Desktop\Proa\Exemplo01\obj\Debug\net8.0\Exemplo01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Desktop\Proa\Exemplo01\obj\Debug\net8.0\Exemplo01.AssemblyInfoInputs.cache
+C:\Users\Aluno\Desktop\Proa\Exemplo01\obj\Debug\net8.0\Exemplo01.AssemblyInfo.cs
+C:\Users\Aluno\Desktop\Proa\Exemplo01\obj\Debug\net8.0\Exemplo01.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\Proa\Exemplo01\obj\Debug\net8.0\Exemplo01.dll
+C:\Users\Aluno\Desktop\Proa\Exemplo01\obj\Debug\net8.0\refint\Exemplo01.dll
+C:\Users\Aluno\Desktop\Proa\Exemplo01\obj\Debug\net8.0\Exemplo01.pdb
+C:\Users\Aluno\Desktop\Proa\Exemplo01\obj\Debug\net8.0\Exemplo01.genruntimeconfig.cache
+C:\Users\Aluno\Desktop\Proa\Exemplo01\obj\Debug\net8.0\ref\Exemplo01.dll

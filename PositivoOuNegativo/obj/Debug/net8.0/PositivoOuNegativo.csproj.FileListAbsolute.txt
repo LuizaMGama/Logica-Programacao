@@ -1,0 +1,14 @@
+C:\Users\Aluno\Desktop\Proa\PositivoOuNegativo\bin\Debug\net8.0\PositivoOuNegativo.exe
+C:\Users\Aluno\Desktop\Proa\PositivoOuNegativo\bin\Debug\net8.0\PositivoOuNegativo.deps.json
+C:\Users\Aluno\Desktop\Proa\PositivoOuNegativo\bin\Debug\net8.0\PositivoOuNegativo.runtimeconfig.json
+C:\Users\Aluno\Desktop\Proa\PositivoOuNegativo\bin\Debug\net8.0\PositivoOuNegativo.dll
+C:\Users\Aluno\Desktop\Proa\PositivoOuNegativo\bin\Debug\net8.0\PositivoOuNegativo.pdb
+C:\Users\Aluno\Desktop\Proa\PositivoOuNegativo\obj\Debug\net8.0\PositivoOuNegativo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Desktop\Proa\PositivoOuNegativo\obj\Debug\net8.0\PositivoOuNegativo.AssemblyInfoInputs.cache
+C:\Users\Aluno\Desktop\Proa\PositivoOuNegativo\obj\Debug\net8.0\PositivoOuNegativo.AssemblyInfo.cs
+C:\Users\Aluno\Desktop\Proa\PositivoOuNegativo\obj\Debug\net8.0\PositivoOuNegativo.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\Proa\PositivoOuNegativo\obj\Debug\net8.0\PositivoOuNegativo.dll
+C:\Users\Aluno\Desktop\Proa\PositivoOuNegativo\obj\Debug\net8.0\refint\PositivoOuNegativo.dll
+C:\Users\Aluno\Desktop\Proa\PositivoOuNegativo\obj\Debug\net8.0\PositivoOuNegativo.pdb
+C:\Users\Aluno\Desktop\Proa\PositivoOuNegativo\obj\Debug\net8.0\PositivoOuNegativo.genruntimeconfig.cache
+C:\Users\Aluno\Desktop\Proa\PositivoOuNegativo\obj\Debug\net8.0\ref\PositivoOuNegativo.dll

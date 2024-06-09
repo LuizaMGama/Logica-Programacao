@@ -1,0 +1,14 @@
+C:\Users\Aluno\Desktop\Proa\MaiorNumero\bin\Debug\net8.0\MaiorNumero.exe
+C:\Users\Aluno\Desktop\Proa\MaiorNumero\bin\Debug\net8.0\MaiorNumero.deps.json
+C:\Users\Aluno\Desktop\Proa\MaiorNumero\bin\Debug\net8.0\MaiorNumero.runtimeconfig.json
+C:\Users\Aluno\Desktop\Proa\MaiorNumero\bin\Debug\net8.0\MaiorNumero.dll
+C:\Users\Aluno\Desktop\Proa\MaiorNumero\bin\Debug\net8.0\MaiorNumero.pdb
+C:\Users\Aluno\Desktop\Proa\MaiorNumero\obj\Debug\net8.0\MaiorNumero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Desktop\Proa\MaiorNumero\obj\Debug\net8.0\MaiorNumero.AssemblyInfoInputs.cache
+C:\Users\Aluno\Desktop\Proa\MaiorNumero\obj\Debug\net8.0\MaiorNumero.AssemblyInfo.cs
+C:\Users\Aluno\Desktop\Proa\MaiorNumero\obj\Debug\net8.0\MaiorNumero.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\Proa\MaiorNumero\obj\Debug\net8.0\MaiorNumero.dll
+C:\Users\Aluno\Desktop\Proa\MaiorNumero\obj\Debug\net8.0\refint\MaiorNumero.dll
+C:\Users\Aluno\Desktop\Proa\MaiorNumero\obj\Debug\net8.0\MaiorNumero.pdb
+C:\Users\Aluno\Desktop\Proa\MaiorNumero\obj\Debug\net8.0\MaiorNumero.genruntimeconfig.cache
+C:\Users\Aluno\Desktop\Proa\MaiorNumero\obj\Debug\net8.0\ref\MaiorNumero.dll
