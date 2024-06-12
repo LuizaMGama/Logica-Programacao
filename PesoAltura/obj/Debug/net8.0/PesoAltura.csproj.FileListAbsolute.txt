@@ -1,0 +1,15 @@
+C:\Users\Aluno\Desktop\Proa\PesoAltura\bin\Debug\net8.0\PesoAltura.exe
+C:\Users\Aluno\Desktop\Proa\PesoAltura\bin\Debug\net8.0\PesoAltura.deps.json
+C:\Users\Aluno\Desktop\Proa\PesoAltura\bin\Debug\net8.0\PesoAltura.runtimeconfig.json
+C:\Users\Aluno\Desktop\Proa\PesoAltura\bin\Debug\net8.0\PesoAltura.dll
+C:\Users\Aluno\Desktop\Proa\PesoAltura\bin\Debug\net8.0\PesoAltura.pdb
+C:\Users\Aluno\Desktop\Proa\PesoAltura\obj\Debug\net8.0\PesoAltura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Desktop\Proa\PesoAltura\obj\Debug\net8.0\PesoAltura.AssemblyInfoInputs.cache
+C:\Users\Aluno\Desktop\Proa\PesoAltura\obj\Debug\net8.0\PesoAltura.AssemblyInfo.cs
+C:\Users\Aluno\Desktop\Proa\PesoAltura\obj\Debug\net8.0\PesoAltura.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\Proa\PesoAltura\obj\Debug\net8.0\PesoAltura.sourcelink.json
+C:\Users\Aluno\Desktop\Proa\PesoAltura\obj\Debug\net8.0\PesoAltura.dll
+C:\Users\Aluno\Desktop\Proa\PesoAltura\obj\Debug\net8.0\refint\PesoAltura.dll
+C:\Users\Aluno\Desktop\Proa\PesoAltura\obj\Debug\net8.0\PesoAltura.pdb
+C:\Users\Aluno\Desktop\Proa\PesoAltura\obj\Debug\net8.0\PesoAltura.genruntimeconfig.cache
+C:\Users\Aluno\Desktop\Proa\PesoAltura\obj\Debug\net8.0\ref\PesoAltura.dll

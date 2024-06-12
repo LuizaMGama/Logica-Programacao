@@ -3,14 +3,15 @@
 using System;
 class PositivoOuNegativo {
     public static void Main (string[] args) {
-    Console.WriteLine ("Número positivo ou Negativo?");
-    Console.WriteLine("Digite um número inteiro");
-    int numero01 = Convert.ToInt32(Console.ReadLine());
-    if(numero01 >= 0){
+        Console.WriteLine ("Número positivo ou Negativo?");
+        Console.WriteLine("Digite um número inteiro");
+        int numero01 = Convert.ToInt32(Console.ReadLine());
+
+        if(numero01 >= 0){
         Console.WriteLine("O número é positivo!");
-    }
-    else{
+        }
+        else{
         Console.WriteLine("O número é negativo");
+        }
     }
-}
 }

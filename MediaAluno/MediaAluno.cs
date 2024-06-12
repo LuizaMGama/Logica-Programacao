@@ -10,7 +10,6 @@ class MediaAluno{
         int nota02 = Convert.ToInt32(Console.ReadLine());
         Console.WriteLine("Informe a terceira nota: ");
         int nota03 = Convert.ToInt32(Console.ReadLine());
-
         int media = (nota01 + nota02 + nota03) / 3;
 
         if (media >= 7)

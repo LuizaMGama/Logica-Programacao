@@ -1,0 +1,15 @@
+C:\Users\Aluno\Desktop\Proa\PositivoRaiz\bin\Debug\net8.0\PositivoRaiz.exe
+C:\Users\Aluno\Desktop\Proa\PositivoRaiz\bin\Debug\net8.0\PositivoRaiz.deps.json
+C:\Users\Aluno\Desktop\Proa\PositivoRaiz\bin\Debug\net8.0\PositivoRaiz.runtimeconfig.json
+C:\Users\Aluno\Desktop\Proa\PositivoRaiz\bin\Debug\net8.0\PositivoRaiz.dll
+C:\Users\Aluno\Desktop\Proa\PositivoRaiz\bin\Debug\net8.0\PositivoRaiz.pdb
+C:\Users\Aluno\Desktop\Proa\PositivoRaiz\obj\Debug\net8.0\PositivoRaiz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Desktop\Proa\PositivoRaiz\obj\Debug\net8.0\PositivoRaiz.AssemblyInfoInputs.cache
+C:\Users\Aluno\Desktop\Proa\PositivoRaiz\obj\Debug\net8.0\PositivoRaiz.AssemblyInfo.cs
+C:\Users\Aluno\Desktop\Proa\PositivoRaiz\obj\Debug\net8.0\PositivoRaiz.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\Proa\PositivoRaiz\obj\Debug\net8.0\PositivoRaiz.sourcelink.json
+C:\Users\Aluno\Desktop\Proa\PositivoRaiz\obj\Debug\net8.0\PositivoRaiz.dll
+C:\Users\Aluno\Desktop\Proa\PositivoRaiz\obj\Debug\net8.0\refint\PositivoRaiz.dll
+C:\Users\Aluno\Desktop\Proa\PositivoRaiz\obj\Debug\net8.0\PositivoRaiz.pdb
+C:\Users\Aluno\Desktop\Proa\PositivoRaiz\obj\Debug\net8.0\PositivoRaiz.genruntimeconfig.cache
+C:\Users\Aluno\Desktop\Proa\PositivoRaiz\obj\Debug\net8.0\ref\PositivoRaiz.dll

@@ -1,0 +1,15 @@
+C:\Users\Aluno\Desktop\Proa\MaiorOuDobro\bin\Debug\net8.0\MaiorOuDobro.exe
+C:\Users\Aluno\Desktop\Proa\MaiorOuDobro\bin\Debug\net8.0\MaiorOuDobro.deps.json
+C:\Users\Aluno\Desktop\Proa\MaiorOuDobro\bin\Debug\net8.0\MaiorOuDobro.runtimeconfig.json
+C:\Users\Aluno\Desktop\Proa\MaiorOuDobro\bin\Debug\net8.0\MaiorOuDobro.dll
+C:\Users\Aluno\Desktop\Proa\MaiorOuDobro\bin\Debug\net8.0\MaiorOuDobro.pdb
+C:\Users\Aluno\Desktop\Proa\MaiorOuDobro\obj\Debug\net8.0\MaiorOuDobro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Desktop\Proa\MaiorOuDobro\obj\Debug\net8.0\MaiorOuDobro.AssemblyInfoInputs.cache
+C:\Users\Aluno\Desktop\Proa\MaiorOuDobro\obj\Debug\net8.0\MaiorOuDobro.AssemblyInfo.cs
+C:\Users\Aluno\Desktop\Proa\MaiorOuDobro\obj\Debug\net8.0\MaiorOuDobro.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\Proa\MaiorOuDobro\obj\Debug\net8.0\MaiorOuDobro.sourcelink.json
+C:\Users\Aluno\Desktop\Proa\MaiorOuDobro\obj\Debug\net8.0\MaiorOuDobro.dll
+C:\Users\Aluno\Desktop\Proa\MaiorOuDobro\obj\Debug\net8.0\refint\MaiorOuDobro.dll
+C:\Users\Aluno\Desktop\Proa\MaiorOuDobro\obj\Debug\net8.0\MaiorOuDobro.pdb
+C:\Users\Aluno\Desktop\Proa\MaiorOuDobro\obj\Debug\net8.0\MaiorOuDobro.genruntimeconfig.cache
+C:\Users\Aluno\Desktop\Proa\MaiorOuDobro\obj\Debug\net8.0\ref\MaiorOuDobro.dll

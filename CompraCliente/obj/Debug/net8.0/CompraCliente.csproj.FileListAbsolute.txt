@@ -1,0 +1,15 @@
+C:\Users\Aluno\Desktop\Proa\CompraCliente\bin\Debug\net8.0\CompraCliente.exe
+C:\Users\Aluno\Desktop\Proa\CompraCliente\bin\Debug\net8.0\CompraCliente.deps.json
+C:\Users\Aluno\Desktop\Proa\CompraCliente\bin\Debug\net8.0\CompraCliente.runtimeconfig.json
+C:\Users\Aluno\Desktop\Proa\CompraCliente\bin\Debug\net8.0\CompraCliente.dll
+C:\Users\Aluno\Desktop\Proa\CompraCliente\bin\Debug\net8.0\CompraCliente.pdb
+C:\Users\Aluno\Desktop\Proa\CompraCliente\obj\Debug\net8.0\CompraCliente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Desktop\Proa\CompraCliente\obj\Debug\net8.0\CompraCliente.AssemblyInfoInputs.cache
+C:\Users\Aluno\Desktop\Proa\CompraCliente\obj\Debug\net8.0\CompraCliente.AssemblyInfo.cs
+C:\Users\Aluno\Desktop\Proa\CompraCliente\obj\Debug\net8.0\CompraCliente.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\Proa\CompraCliente\obj\Debug\net8.0\CompraCliente.sourcelink.json
+C:\Users\Aluno\Desktop\Proa\CompraCliente\obj\Debug\net8.0\CompraCliente.dll
+C:\Users\Aluno\Desktop\Proa\CompraCliente\obj\Debug\net8.0\refint\CompraCliente.dll
+C:\Users\Aluno\Desktop\Proa\CompraCliente\obj\Debug\net8.0\CompraCliente.pdb
+C:\Users\Aluno\Desktop\Proa\CompraCliente\obj\Debug\net8.0\CompraCliente.genruntimeconfig.cache
+C:\Users\Aluno\Desktop\Proa\CompraCliente\obj\Debug\net8.0\ref\CompraCliente.dll
